@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @estercaturna97
-- 👀 I’m interested in anime, games and music
+- 👋 Hi, I’m Ester
+- 👀 I’m interested in Anime, Games and Music
 - 🌱 I’m currently learning Android
 
 <!---
